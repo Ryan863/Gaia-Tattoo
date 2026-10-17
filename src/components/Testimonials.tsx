@@ -66,7 +66,7 @@ export default function Testimonials() {
           <div data-reveal className="flex items-center gap-4">
             <Stars />
             <p className="text-xs font-light uppercase tracking-[0.25em] text-mute">
-              +25 avaliações no Google
+              Mais de +170 avaliações no Google
             </p>
           </div>
         </header>

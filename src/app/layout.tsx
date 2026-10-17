@@ -75,6 +75,11 @@ const jsonLd = {
       closes: "02:00",
     },
   ],
+  aggregateRating: {
+    "@type": "AggregateRating",
+    ratingValue: "5.0",
+    reviewCount: "170",
+  },
 };
 
 export default function RootLayout({
